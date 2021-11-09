@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1227"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="slide1.svg">
+  <defs
+     id="defs1221">
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="78.997025"
+       height="22.300594"
+       id="rect1173" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="78.997025"
+       height="22.300594"
+       id="rect1799" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="78.997025"
+       height="22.300594"
+       id="rect1195" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="78.997025"
+       height="22.300594"
+       id="rect1802" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="74.990501"
+       height="23.434521"
+       id="rect1203" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="74.990501"
+       height="23.434521"
+       id="rect1805" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="107.00704"
+       height="49.851433"
+       id="rect1211" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="107.00704"
+       height="49.851433"
+       id="rect1808" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="83.588829"
+       height="39.290279"
+       id="rect1219" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="83.588829"
+       height="39.290279"
+       id="rect1811" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="81.692879"
+       height="50.689556"
+       id="rect2339" />
+    <rect
+       x="-60.476192"
+       y="-169.7113"
+       width="81.692879"
+       height="50.689556"
+       id="rect2350" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="817.12753"
+     inkscape:cy="686.20209"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1431"
+     inkscape:window-height="1030"
+     inkscape:window-x="192"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1224">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.321688"
+       id="rect1033"
+       width="199.58075"
+       height="2.655144"
+       x="23.266148"
+       y="105.16557"
+       ry="1.327572" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke:#000000;stroke-width:0.330999"
+       id="path1035"
+       sodipodi:sides="3"
+       sodipodi:cx="225.60703"
+       sodipodi:cy="105.94584"
+       sodipodi:r1="6.4367027"
+       sodipodi:r2="3.2183511"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="-1.6091768"
+       inkscape:transform-center-y="1.8e-06"
+       d="m 232.04373,105.94584 -4.82753,2.78717 -4.82753,2.78718 0,-5.57435 0,-5.57435 4.82753,2.78718 z" />
+    <g
+       id="g1049"
+       transform="translate(79.589256,241.61964)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.100576"
+         id="rect1037"
+         width="64.360535"
+         height="0.80483276"
+         x="-148.82059"
+         y="-97.972511"
+         ry="0.40241638"
+         transform="matrix(0.65133656,0.75878896,-0.64131921,0.76727419,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:0.16023"
+         id="path1039"
+         sodipodi:sides="3"
+         sodipodi:cx="113.3898"
+         sodipodi:cy="-192.37022"
+         sodipodi:r1="3.1158774"
+         sodipodi:r2="1.5579386"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.77896962"
+         transform="rotate(44.618712,-4.6560669,-293.65053)"
+         d="m 116.50568,-192.37022 -2.33691,1.34921 -2.33691,1.34921 0,-2.69842 0,-2.69843 2.33691,1.34921 z" />
+    </g>
+    <g
+       id="g1055"
+       transform="translate(133.26188,241.24166)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.100576"
+         id="rect1051"
+         width="64.360535"
+         height="0.80483276"
+         x="-148.82059"
+         y="-97.972511"
+         ry="0.40241638"
+         transform="matrix(0.65133656,0.75878896,-0.64131921,0.76727419,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:0.16023"
+         id="path1053"
+         sodipodi:sides="3"
+         sodipodi:cx="113.3898"
+         sodipodi:cy="-192.37022"
+         sodipodi:r1="3.1158774"
+         sodipodi:r2="1.5579386"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.77896962"
+         transform="rotate(44.618712,-4.6560669,-293.65053)"
+         d="m 116.50568,-192.37022 -2.33691,1.34921 -2.33691,1.34921 0,-2.69842 0,-2.69843 2.33691,1.34921 z" />
+    </g>
+    <g
+       id="g1061"
+       transform="translate(186.17855,241.24166)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.100576"
+         id="rect1057"
+         width="64.360535"
+         height="0.80483276"
+         x="-148.82059"
+         y="-97.972511"
+         ry="0.40241638"
+         transform="matrix(0.65133656,0.75878896,-0.64131921,0.76727419,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:0.16023"
+         id="path1059"
+         sodipodi:sides="3"
+         sodipodi:cx="113.3898"
+         sodipodi:cy="-192.37022"
+         sodipodi:r1="3.1158774"
+         sodipodi:r2="1.5579386"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.77896962"
+         transform="rotate(44.618712,-4.6560669,-293.65053)"
+         d="m 116.50568,-192.37022 -2.33691,1.34921 -2.33691,1.34921 0,-2.69842 0,-2.69843 2.33691,1.34921 z" />
+    </g>
+    <g
+       id="g1067"
+       transform="matrix(1,0,0,-1,79.589256,-29.097283)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.100576"
+         id="rect1063"
+         width="64.360535"
+         height="0.80483276"
+         x="-148.82059"
+         y="-97.972511"
+         ry="0.40241638"
+         transform="matrix(0.65133656,0.75878896,-0.64131921,0.76727419,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:0.16023"
+         id="path1065"
+         sodipodi:sides="3"
+         sodipodi:cx="113.3898"
+         sodipodi:cy="-192.37022"
+         sodipodi:r1="3.1158774"
+         sodipodi:r2="1.5579386"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.77896962"
+         transform="rotate(44.618712,-4.6560669,-293.65053)"
+         d="m 116.50568,-192.37022 -2.33691,1.34921 -2.33691,1.34921 0,-2.69842 0,-2.69843 2.33691,1.34921 z" />
+    </g>
+    <g
+       id="g1073"
+       transform="matrix(1,0,0,-1,133.26188,-28.719313)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.100576"
+         id="rect1069"
+         width="64.360535"
+         height="0.80483276"
+         x="-148.82059"
+         y="-97.972511"
+         ry="0.40241638"
+         transform="matrix(0.65133656,0.75878896,-0.64131921,0.76727419,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:0.16023"
+         id="path1071"
+         sodipodi:sides="3"
+         sodipodi:cx="113.3898"
+         sodipodi:cy="-192.37022"
+         sodipodi:r1="3.1158774"
+         sodipodi:r2="1.5579386"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.77896962"
+         transform="rotate(44.618712,-4.6560669,-293.65053)"
+         d="m 116.50568,-192.37022 -2.33691,1.34921 -2.33691,1.34921 0,-2.69842 0,-2.69843 2.33691,1.34921 z" />
+    </g>
+    <g
+       id="g1079"
+       transform="matrix(1,0,0,-1,186.17855,-28.719313)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.100576"
+         id="rect1075"
+         width="64.360535"
+         height="0.80483276"
+         x="-148.82059"
+         y="-97.972511"
+         ry="0.40241638"
+         transform="matrix(0.65133656,0.75878896,-0.64131921,0.76727419,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;stroke:#000000;stroke-width:0.16023"
+         id="path1077"
+         sodipodi:sides="3"
+         sodipodi:cx="113.3898"
+         sodipodi:cy="-192.37022"
+         sodipodi:r1="3.1158774"
+         sodipodi:r2="1.5579386"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.77896962"
+         transform="rotate(44.618712,-4.6560669,-293.65053)"
+         d="m 116.50568,-192.37022 -2.33691,1.34921 -2.33691,1.34921 0,-2.69842 0,-2.69843 2.33691,1.34921 z" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.275485"
+       id="rect1081"
+       width="61.527374"
+       height="31.563793"
+       x="1.6268082"
+       y="22.397497"
+       ry="15.781897" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:0.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="31.977095"
+       y="35.836998"
+       id="text1085"><tspan
+         sodipodi:role="line"
+         id="tspan1083"
+         x="31.977095"
+         y="35.836998"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691">Advanced Nuclear</tspan><tspan
+         sodipodi:role="line"
+         x="31.977095"
+         y="39.248878"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1087" /><tspan
+         sodipodi:role="line"
+         x="31.977095"
+         y="42.660755"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1105">Design System</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.273233"
+       id="rect1089"
+       width="61.527374"
+       height="31.049911"
+       x="67.24353"
+       y="22.911383"
+       ry="15.524956" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:0.75;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="97.593803"
+       y="36.366158"
+       id="text1095"><tspan
+         sodipodi:role="line"
+         id="tspan1091"
+         x="97.593803"
+         y="36.366158"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691">Advanced Nuclear</tspan><tspan
+         sodipodi:role="line"
+         x="97.593803"
+         y="40.2808"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1107" /><tspan
+         sodipodi:role="line"
+         x="97.593803"
+         y="44.195442"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1093">Reactor Safety</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.308509"
+       id="rect1097"
+       width="72.841797"
+       height="33.43642"
+       x="132.19226"
+       y="20.512442"
+       ry="16.71821" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:1.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="168.53041"
+       y="34.249519"
+       id="text1103"><tspan
+         sodipodi:role="line"
+         id="tspan1099"
+         x="168.53041"
+         y="34.249519"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691">Advanced Nuclear</tspan><tspan
+         sodipodi:role="line"
+         x="168.53041"
+         y="42.689018"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1101">Thermal Hydraulic System</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.275485"
+       id="rect1109"
+       width="61.527374"
+       height="31.563793"
+       x="1.6268082"
+       y="158.46893"
+       ry="15.781897" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:0.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="31.977095"
+       y="171.90843"
+       id="text1117"><tspan
+         sodipodi:role="line"
+         id="tspan1111"
+         x="31.977095"
+         y="171.90843"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691">Advanced Nuclear</tspan><tspan
+         sodipodi:role="line"
+         x="31.977095"
+         y="175.32031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1113" /><tspan
+         sodipodi:role="line"
+         x="31.977095"
+         y="178.73219"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1115">Data System</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.273233"
+       id="rect1119"
+       width="61.527374"
+       height="31.049911"
+       x="67.24353"
+       y="157.84889"
+       ry="15.524956" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:0.75;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="97.593803"
+       y="171.30367"
+       id="text1127"><tspan
+         sodipodi:role="line"
+         id="tspan1121"
+         x="97.593803"
+         y="171.30367"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691">Advanced Nuclear</tspan><tspan
+         sodipodi:role="line"
+         x="97.593803"
+         y="175.21831"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1123" /><tspan
+         sodipodi:role="line"
+         x="97.593803"
+         y="179.13295"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1125">Fuel Cycle System</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.308509"
+       id="rect1129"
+       width="72.841797"
+       height="33.43642"
+       x="132.19226"
+       y="159.22971"
+       ry="16.71821" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:1.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="168.57756"
+       y="169.26244"
+       id="text1135"><tspan
+         sodipodi:role="line"
+         id="tspan1131"
+         x="168.57756"
+         y="169.26244"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691">Advanced Nuclear</tspan><tspan
+         sodipodi:role="line"
+         x="168.57756"
+         y="177.70193"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1133">Instrumentation and</tspan><tspan
+         sodipodi:role="line"
+         x="168.57756"
+         y="186.14143"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kabrio;-inkscape-font-specification:'Kabrio Bold';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1137">Nuclear Material</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.257498"
+       id="rect1139"
+       width="60.797569"
+       height="27.907784"
+       x="233.84236"
+       y="92.068436"
+       ry="13.953892" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.02762px;line-height:1.65;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.125691"
+       x="264.21045"
+       y="103.17977"
+       id="text1147"><tspan
+         sodipodi:role="line"
+         x="264.21045"
+         y="103.17977"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1145">Advanced NPP</tspan><tspan
+         sodipodi:role="line"
+         x="264.21045"
+         y="111.53089"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';text-align:center;text-anchor:middle;stroke-width:0.125691"
+         id="tspan1154">(Generation IV)</tspan></text>
+    <rect
+       style="fill:#7030a0;fill-opacity:1;stroke:#000000;stroke-width:0.272463;stroke-opacity:0"
+       id="rect1177"
+       width="66.582352"
+       height="21.46814"
+       x="23.01475"
+       y="69.233223"
+       ry="4.8225513" />
+    <text
+       xml:space="preserve"
+       id="text1171"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect1173);fill:#ffffff;fill-opacity:1;"
+       transform="matrix(0.82315359,0,0,0.82315359,77.64961,211.10963)"><tspan
+         x="-60.476562"
+         y="-165.96"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Microscopic model based Nuclear </tspan></tspan><tspan
+         x="-60.476562"
+         y="-160.62156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Reaction Analysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-155.28312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Macroscopic model based Nuclear </tspan></tspan><tspan
+         x="-60.476562"
+         y="-149.94468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Reaction Analysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-144.60624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">
+</tspan></tspan></text>
+    <rect
+       style="fill:#feff01;fill-opacity:1;stroke:#000000;stroke-width:0.272463;stroke-opacity:0"
+       id="rect1189"
+       width="66.582352"
+       height="21.46814"
+       x="91.713768"
+       y="69.233223"
+       ry="4.8225513" />
+    <text
+       xml:space="preserve"
+       id="text1193"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect1195);fill:#000000;fill-opacity:1;"
+       transform="matrix(0.82315359,0,0,0.82315359,146.34863,211.10963)"><tspan
+         x="-60.476562"
+         y="-165.96"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Microscopic model based Nuclear </tspan></tspan><tspan
+         x="-60.476562"
+         y="-160.62156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Reaction Analysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-155.28312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Macroscopic model based Nuclear </tspan></tspan><tspan
+         x="-60.476562"
+         y="-149.94468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Reaction Analysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-144.60624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">
+</tspan></tspan></text>
+    <rect
+       style="fill:#ecf0df;fill-opacity:1;stroke:#000000;stroke-width:0.272463;stroke-opacity:0"
+       id="rect1197"
+       width="66.582352"
+       height="21.46814"
+       x="163.83162"
+       y="69.233223"
+       ry="4.8225513" />
+    <text
+       xml:space="preserve"
+       id="text1201"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect1203);fill:#000000;fill-opacity:1;"
+       transform="matrix(0.82315359,0,0,0.82315359,218.46646,211.10963)"><tspan
+         x="-60.476562"
+         y="-165.96"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Reactor Core simulators
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-160.62156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Balanced of Plant simulator
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-155.28312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Energy conversion simulators (Co </tspan></tspan><tspan
+         x="-60.476562"
+         y="-149.94468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">generation)
+</tspan></tspan></text>
+    <rect
+       style="fill:#00af50;fill-opacity:1;stroke:#000000;stroke-width:0.472423;stroke-opacity:0"
+       id="rect1205"
+       width="98.527946"
+       height="43.61554"
+       x="29.947325"
+       y="112.47475"
+       ry="9.7976904" />
+    <text
+       xml:space="preserve"
+       id="text1209"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect1211);fill:#ffffff;fill-opacity:1;"
+       transform="matrix(0.82315359,0,0,0.82315359,85.587115,256.39117)"><tspan
+         x="-60.476562"
+         y="-165.96"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Complete Advanced Nuclear Energy System Analysis
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-160.62156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">NPP Simulators
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-155.28312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Advanced NPP Safety Experimental system
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-149.94468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">AdvancedNuclear Energy System design (Conceptual &amp; </tspan></tspan><tspan
+         x="-60.476562"
+         y="-144.60624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Detail design)
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-139.2678"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Advanced Computer Code for Nuclear reaction
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-133.92936"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Advanced Nuclear Spectroscopy system
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-128.59092"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">Advanced Nuclear Materials 
+</tspan></tspan></text>
+    <rect
+       style="fill:#ffc000;fill-opacity:1;stroke:#000000;stroke-width:0.384382;stroke-opacity:0"
+       id="rect1213"
+       width="76.315392"
+       height="37.277985"
+       x="140.27235"
+       y="117.19321"
+       ry="8.3740377" />
+    <text
+       xml:space="preserve"
+       id="text1217"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect1219);fill:#000000;fill-opacity:1;"
+       transform="matrix(0.82315359,0,0,0.82315359,195.95616,261.15368)"><tspan
+         x="-60.476562"
+         y="-165.96"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Cell homegenization code development
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-160.62156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Diffusion and transport code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-155.28312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Thermal hydraulic analysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-149.94468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Safety analysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-144.60624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Fuel cycle anaysis code
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-139.2678"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Nuclear Non-Proliferation Analysis code 
+</tspan></tspan></text>
+    <rect
+       style="fill:#dce6f2;fill-opacity:1;stroke:#000000;stroke-width:0.442728;stroke-opacity:0"
+       id="rect2333"
+       width="76.257042"
+       height="49.491817"
+       x="219.58614"
+       y="129.00021"
+       ry="11.117723" />
+    <text
+       xml:space="preserve"
+       id="text2337"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect2339);fill:#000000;fill-opacity:1;"
+       transform="matrix(0.82315359,0,0,0.82315359,275.24075,275.57732)"><tspan
+         x="-60.476562"
+         y="-165.96"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced Tokamak Fusion Reactor
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-160.62156"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced Hybrid Fusion-Fission Reactor
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-155.28312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced MSR and Homogeneous Reactor
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-149.94468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced liquid metal cooled NPP
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-144.60624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced Gas cooled NPP
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-139.2678"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced LWR 
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-133.92936"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced Nuclear Battery
+</tspan></tspan><tspan
+         x="-60.476562"
+         y="-128.59092"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000">Advanced Co-generation System
+</tspan></tspan></text>
+  </g>
+</svg>
