@@ -5,7 +5,7 @@
 				<h1><a href="<?php echo base_url().''?>">Nuclear<span></span></a></h1>
 				<nav role="navigation">
 					<ul>
-						<li><a href="<?php echo base_url().''?>">Home</a></li>
+						<li><a href="<?php echo base_url().''?>">Homes</a></li>
 						<li><a href="<?php echo base_url().'lecturer'?>">Lecturer</a></li>
 						<li><a href="<?php echo base_url().'roadmap'?>">Roadmap</a></li>
 						<li><a href="<?php echo base_url().'artikel'?>">Information</a></li>
