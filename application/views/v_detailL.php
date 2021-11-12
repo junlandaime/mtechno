@@ -74,43 +74,55 @@
 					<li>Memberikan produk dan layanan yang berkualitas dengan layanan purna jual yang maksimal kepada setiap pelangan kami.</li>
 				</ul>
 			</div> -->
-			<div>
-				<table class="table">
-				<thead>
-					<tr>
-					<th scope="col">No</th>
-					<th scope="col">Data Lector</th>
-					<th scope="col">Education</th>
-					<th scope="col">Kelompok Keahlian</th>
-					<th scope="col">Sekolah / Fakultas</th>
-					<th scope="col">Jabatan Fungsional</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<?php $i = 1; ?>
-						<?php foreach ($tbl_lecturer as $lec) : ?>
-					<th scope="row"><?= $i; ?></th>
-					<td><b><a href="<?php echo base_url().'lecturer/detail/'?><?= $lec["id"]; ?>"><?= $lec['nama']; ?></b> <br> <img src="<?php echo base_url().'theme/images/profile/'.$lec['gambar'];?>" alt=""></td>
-					<td>
-						<li><?= $lec['s1']; ?></li>
-						<li><?= $lec['s2']; ?></li>
-						<li><?= $lec['s3']; ?></li>
-					</td>
-					<td><?= $lec['Kel_Keahlian']; ?></td>
-					<td><?= $lec['Sekolah_Fakultas']; ?></td>
-					<td><?= $lec['Jabatan_Fungsional']; ?></td>
-					</tr>
-						<?php $i++; ?>
-						<?php endforeach; ?>
-					
-				</tbody>
-				</table>
-				<div class="container">
-					<h4>Dosen Tamu (Guest Lecture)</h4>
-					<p class="fh5co-staff">Other Lecturers : Partial or Guest lecture from ractitioners, Industries, Government, Research Center, Regulator, universities (Nasional and international), and international organization.</p>
+			<?php foreach($tbl_lecturer as $lec): ?>
+				<?php if ($in==$lec["id"]): ?>
+				<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+					<div class="container">
+					<a class="navbar-brand" href="listpeserta.php">Ta'aruf Talk 2 | lecwat </a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse " id="navbarNavAltMarkup">
+					<div class="navbar-nav">
+						<a class="nav-item nav-link " href="#">Home <span class="sr-only">(current)</span></a>
+						<a class="nav-item nav-link active" href="#">About</a>
+						<a class="nav-item nav-link" href="#">Portfolio</a>
+						<a class="nav-item nav-link disabled" href="#">Contact</a>
+					</div>
+					</div>
+					</div>
+				</nav>
+
+
+				<div class="jumbotron jumbotron-fluid">
+					<div class="container text-center">
+					<img src="<?php echo base_url().'theme/images/profile/'.$lec['gambar'];?>" alt="">
+					<h1 class="display-4"><?= $lec["nama"]; ?></h1>
+					<p class="lead">Pekerjaan: <?= $lec['Kel_Keahlian']; ?> | <?= $lec['Sekolah_Fakultas']; ?> | SPN <?= $lec['Sekolah_Fakultas']; ?></p>
+					<p class="lead">Asal Daerah: <?= $lec['Sekolah_Fakultas']; ?> | Usia <?= $lec['Sekolah_Fakultas']; ?> | Domisili: <?= $lec['Sekolah_Fakultas']; ?></p>
+					</div>
+				</div>
+
+			<div class="container my-5" >
+			<div class="row">
+				<div class="col text-center">
+				<h1>About</h1>
 				</div>
 			</div>
+
+			<div class="row">
+				<div class="col text-center">
+				<p><h4>Saya adalah</h4> <?= $lec['Sekolah_Fakultas']; ?></p>
+				</div>
+				<div class="col text-center">
+				<p><h4>Kriteria pasangan yang saya inginkan adalah</h4> <?= $lec['Sekolah_Fakultas']; ?></p>
+				</div>
+			</div>
+			</div>
+
+				<?php endif; ?>
+			<?php endforeach; ?>
+			
 		</div>
 	</div>
 
