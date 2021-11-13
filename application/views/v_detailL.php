@@ -3,7 +3,11 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>About Lecturer</title>
+			<?php foreach($tbl_lecturer as $lec): ?>
+				<?php if ($in==$lec["id"]): ?>
+				<title>About Lecturer | <?= $lec["nama"]; ?></title>
+				<?php endif; ?>
+			<?php endforeach; ?>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -29,11 +33,12 @@
 	</head>
 	<body>
 
+	<div class="bg-cover clearfix pt-3">
+		<?php $this->load->view('v_banner');?>
+	</div>
 
-	<?php $this->load->view('v_banner');?>
 
-
-	<aside id="fh5co-hero" clsas="js-fullheight">
+	<aside id="fh5co-hero" class="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
 		   	<li style="background-image: url(<?php echo base_url().'theme/images/Picture5.png'?>);">
@@ -41,8 +46,14 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2 class="btn btn-success">Lecturer Profile</h2>
-		   					<p class="fh5co-lead"> Graduate Program in Nuclear Science and Engineering has a total of 19 lecturer members (members of Nuclear Physics and Biophysics research group of ITB) which 7 members are qualified doctoral supervisors. </p>
+						   <?php foreach($tbl_lecturer as $lec): ?>
+								<?php if ($in==$lec["id"]): ?>
+									<h2 class="btn btn-success">Lecturer Profile </h2>
+									<br> <h4 class="btn btn-success"> <?= $lec["nama"]; ?> </h4>
+								<?php endif; ?>
+							<?php endforeach; ?>
+		   					
+		   					<!-- <p class="fh5co-lead"> Graduate Program in Nuclear Science and Engineering has a total of 19 lecturer members (members of Nuclear Physics and Biophysics research group of ITB) which 7 members are qualified doctoral supervisors. </p> -->
 		   				</div>
 		   			</div>
 		   		</div>
@@ -51,78 +62,112 @@
 	  	</div>
 	</aside>
 
+	
 	<div class="fh5co-about animate-box">
 		<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-			<h2>About Lecturer</h2>
-			<!-- <p>TECHO merupakan perusahaan yang bergerak dan memfokuskan diri pada bidang Konsultan IT dan Security. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha maka kami hadir di dunia teknologi informasi untuk memberikan solusi, perencanaan, dan strategi yang terintegerasi sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.</p> -->
+			<!-- <h2>About Lecturer</h2>
+			<p>TECHO merupakan perusahaan yang bergerak dan memfokuskan diri pada bidang Konsultan IT dan Security. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha maka kami hadir di dunia teknologi informasi untuk memberikan solusi, perencanaan, dan strategi yang terintegerasi sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.</p> -->
 		</div>
 		<div class="container">
-			<!-- <div class="col-md-6">
-				<figure>
+			<div class="col-md-8">
+				<!-- <figure>
 					<img src="<?php echo base_url().'theme/images/image_1.jpg'?>" alt="Free HTML5 Template" class="img-responsive">
-				</figure>
-			</div>
-			<div class="col-md-6">
-				<h3>Visi</h3>
-				<ul>
-					<li>Menjadi Perusahaan IT Profesional dengan solusi dan layanan yang optimal serta memiliki daya saing.</li>
-					<li>Memberikan Layanan dan Solusi yang terintegerasi dan mengikuti perkembangan dunia Teknologi Informasi.</li>
-				</ul>
-				<h3>Misi</h3>
-				<ul>
-					<li>Tidak hanya memberi solusi, kami memberikan layanan yang terpadu dalam setiap layanan Teknologi Informasi yang kami berikan.</li>
-					<li>Memberikan produk dan layanan yang berkualitas dengan layanan purna jual yang maksimal kepada setiap pelangan kami.</li>
-				</ul>
-			</div> -->
-			<?php foreach($tbl_lecturer as $lec): ?>
-				<?php if ($in==$lec["id"]): ?>
-				<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-					<div class="container">
-					<a class="navbar-brand" href="listpeserta.php">Ta'aruf Talk 2 | lecwat </a>
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-					</button>
-					<div class="collapse navbar-collapse " id="navbarNavAltMarkup">
-					<div class="navbar-nav">
-						<a class="nav-item nav-link " href="#">Home <span class="sr-only">(current)</span></a>
-						<a class="nav-item nav-link active" href="#">About</a>
-						<a class="nav-item nav-link" href="#">Portfolio</a>
-						<a class="nav-item nav-link disabled" href="#">Contact</a>
-					</div>
-					</div>
-					</div>
-				</nav>
+				</figure> -->
+				<div>
+					<?php foreach($tbl_lecturer as $lec): ?>
+						<?php if ($in==$lec["id"]): ?>
+						
+						<div class="jumbotron jumbotron-fluid">
+							<div class="container text-center">
+							<img src="<?php echo base_url().'theme/images/profile/'.$lec['gambar'];?>" alt="">
+							<br>
+							<br>
+							<h3 class="display-4"><?= $lec["nama"]; ?></h3>
+							
+							<table class="table table-striped table-dark">
+								
+								<tbody>
+									<tr>
+									<th scope="row">Kelompok Keahlian</th>
+									<td><?= $lec['Kel_Keahlian']; ?></td>
+									</tr>
+									<tr>
+									<th scope="row">Sekolah Fakultas</th>
+									<td><?= $lec['Sekolah_Fakultas']; ?></td>
+									</tr>
+									<tr>
+									<th scope="row">Jabatan Fungsional</th>
+									<td><?= $lec['Jabatan_Fungsional']; ?></td>
+									</tr>
+								</tbody>
+							</table>
 
+							
+							</div>
+						</div>
+						
+						<div class="jumbotron jumbotron-fluid">
+							<div class="container text-center">
+							<h3 class="display-4">Education</h3>
+							</div>
+							<div class="container">
+							<h3 class="display-4">S1</h3>
+							<p><?= $lec['s1']; ?></p>
+							<h3 class="display-4">S2</h3>
+							<p><?= $lec['s2']; ?></p>
+							<h3 class="display-4">S3</h3>
+							<p><?= $lec['s3']; ?></p>
+							</div>
+						</div>
+						
+						<div class="jumbotron jumbotron-fluid">
+							<div class="container text-center">
+							<h3 class="display-4">Project</h3>
+							</div>
+						</div>
 
-				<div class="jumbotron jumbotron-fluid">
-					<div class="container text-center">
-					<img src="<?php echo base_url().'theme/images/profile/'.$lec['gambar'];?>" alt="">
-					<h1 class="display-4"><?= $lec["nama"]; ?></h1>
-					<p class="lead">Pekerjaan: <?= $lec['Kel_Keahlian']; ?> | <?= $lec['Sekolah_Fakultas']; ?> | SPN <?= $lec['Sekolah_Fakultas']; ?></p>
-					<p class="lead">Asal Daerah: <?= $lec['Sekolah_Fakultas']; ?> | Usia <?= $lec['Sekolah_Fakultas']; ?> | Domisili: <?= $lec['Sekolah_Fakultas']; ?></p>
-					</div>
+						<div class="jumbotron jumbotron-fluid">
+							<div class="container text-center">
+							<h3 class="display-4">Publication</h3>
+							</div>
+						</div>
+
+						<div class="jumbotron jumbotron-fluid">
+							<div class="container text-center">
+							<h3 class="display-4">HKI</h3>
+							</div>
+						</div>
+					
+						<?php endif; ?>
+					<?php endforeach; ?>
 				</div>
-
-			<div class="container my-5" >
-			<div class="row">
-				<div class="col text-center">
-				<h1>About</h1>
+			</div>
+			<div class="col-md-4">
+				<div>
+					<table class="table table-hover">
+					<thead>
+						<tr>
+						<th scope="col">Data Lector</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<?php $i = 1; ?>
+							<?php foreach ($tbl_lecturer as $lec) : ?>
+								
+						<td <?php if ($in==$lec["id"]) : ?> class ="active" <?php endif ?> ><a href="<?php echo base_url().'lecturer/detail/'?><?= $lec["id"]; ?>"><?= $lec['nama']; ?></td>
+						</tr>
+								
+							<?php $i++; ?>
+							<?php endforeach; ?>
+						
+					</tbody>
+					</table>
+					
 				</div>
 			</div>
 
-			<div class="row">
-				<div class="col text-center">
-				<p><h4>Saya adalah</h4> <?= $lec['Sekolah_Fakultas']; ?></p>
-				</div>
-				<div class="col text-center">
-				<p><h4>Kriteria pasangan yang saya inginkan adalah</h4> <?= $lec['Sekolah_Fakultas']; ?></p>
-				</div>
-			</div>
-			</div>
-
-				<?php endif; ?>
-			<?php endforeach; ?>
-			
+				
 		</div>
 	</div>
 
@@ -175,10 +220,10 @@
 					</div>
 				</div>
 		</div>
-	</div> -->
+	</div>
 
 
-	<!-- <div class="fh5co-services">
+	<div class="fh5co-services">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
