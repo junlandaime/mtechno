@@ -77,7 +77,7 @@
 
 				</div>
 				<div class="col-12 card-img-top">
-					<img src="<?php echo base_url().'theme/images/slide1.svg'?>" class="card-img-top" alt="">
+					<img src="<?php echo base_url().'theme/images/slide1.svg'?>" class="card-img-top" style="width: 100%; height: auto;" alt="">
 				</div>
 				 
 				<br>
@@ -88,7 +88,7 @@
 
 				</div>
 				
-				<img src="<?php echo base_url().'theme/images/slide2.svg'?>" class="rounded mx-auto d-block" alt="">
+				<img src="<?php echo base_url().'theme/images/slide2.svg'?>" class="rounded mx-auto d-block"style="width: 100%; height: auto;" alt="">
 
 			</div>
 		</div>
@@ -100,7 +100,7 @@
 					<!-- <p>Kami terlah mengerjakan banyak project.</p> -->
 
 				</div>
-				<img src="<?php echo base_url().'theme/images/slide3.svg'?>" class="rounded mx-auto d-block" alt=""> 
+				<img src="<?php echo base_url().'theme/images/slide3.svg'?>" class="rounded mx-auto d-block" style="width: 100%; height: auto;" alt=""> 
 				<br>
 				<br>
 				<br>
@@ -111,7 +111,7 @@
 
 				</div>
 				
-				<img src="<?php echo base_url().'theme/images/slide4.svg'?>" class="rounded mx-auto d-block" alt="">
+				<img src="<?php echo base_url().'theme/images/slide4.svg'?>" class="rounded mx-auto d-block" style="width: 100%; height: auto;" alt="">
 
 			</div>
 		</div>

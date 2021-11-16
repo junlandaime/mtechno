@@ -80,13 +80,18 @@
 				?>
 					<div class="col-md-4">
 						<span class="icon"><img src="<?php echo base_url().'assets/images/'.$post_image;?>" class="img-responsive"></span>
+
 						<h3><a href="<?php echo base_url().'artikel/'.$post_slug;?>"><?php echo $post_judul;?></a></h3>
+
 						<span><?php echo $post_tglpost.' | '.$post_author;?></span>
+
 						<p><?php echo limit_words($post_isi,10).'...';?></em></p>
+
 						<p><a href="<?php echo base_url().'artikel/'.$post_slug;?>" class="btn btn-primary with-arrow">Selengkapnya <i class="icon-arrow-right"></i></a></p>
+						
 					</div>
 					<?php endforeach;?>
-
+				
 			</div>
 		</div>
 		<center><?php echo $page;?></center>
