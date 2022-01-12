@@ -35,7 +35,7 @@
 
 
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2021 by  M Fikri Setiadi</a> edited Kanalnuklir.id. All Rights Reserved.</p>
+				<p>&copy; 2021 by </a>Kanalnuklir.id. All Rights Reserved.</p>
 			</div>
 
 		</div>
